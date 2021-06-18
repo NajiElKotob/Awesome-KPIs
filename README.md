@@ -7,7 +7,8 @@
 * [5 KPIs That Every HR Manager Should Use](https://www.datapine.com/kpi-examples-and-templates/human-resources) - datapine.com
 * [48 HR KPIs & Metric Examples (And How To Implement Them)](https://www.clearpointstrategy.com/human-capital-kpis-scorecard-measures/) - clearpointstrategy.com
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
-
+#### HR Dashboards
+* [Agile HR Analytics V3.0 📺](https://www.youtube.com/watch?v=xPkFEgWexVw&t)
 
 -----
 ## Articles
