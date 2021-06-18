@@ -5,7 +5,7 @@
 ## KPIs
 ### HR
 * [5 KPIs That Every HR Manager Should Use](https://www.datapine.com/kpi-examples-and-templates/human-resources) - datapine.com
-
+* [48 HR KPIs & Metric Examples (And How To Implement Them)](https://www.clearpointstrategy.com/human-capital-kpis-scorecard-measures/) - clearpointstrategy.com
 
 
 
