@@ -2,9 +2,16 @@
 
 {Work in Process... Stay Tuned}
 
+## KPIs
+### HR
+* [5 KPIs That Every HR Manager Should Use](https://www.datapine.com/kpi-examples-and-templates/human-resources) - datapine.com
 
 
-## Operational Processes and Supply chain Perspective
+
+
+-----
+## Articles
+### Operational Processes and Supply chain Perspective
 * [Six Sigma Tools: DPU, DPMO, PPM and RTY](https://www.sixsigmadaily.com/dpu-dpmo-ppm-and-rty/)
 
 -----
