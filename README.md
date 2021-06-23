@@ -18,8 +18,14 @@
 #### HR Dashboards
 * [Agile HR Analytics V3.0 📺](https://www.youtube.com/watch?v=xPkFEgWexVw&t)
 
+### Hospitality Industry
+* [RevPAR](https://asksuite.com/blog/what-is-revpar-how-to-improve-it/) - What is RevPar and how to increase it without jeopardizing profits
+
+
 -----
 ## Articles
+### General Information
+* [What Is A Leading And A Lagging Indicator?](https://www.bernardmarr.com/default.asp?contentID=1405) - Bernard Marr
 ### Operational Processes and Supply chain Perspective
 * [Six Sigma Tools: DPU, DPMO, PPM and RTY](https://www.sixsigmadaily.com/dpu-dpmo-ppm-and-rty/)
 
