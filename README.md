@@ -21,6 +21,10 @@
 ### Hospitality Industry
 * [RevPAR](https://asksuite.com/blog/what-is-revpar-how-to-improve-it/) - What is RevPar and how to increase it without jeopardizing profits
 
+### SaaS
+* [Monthly Recurring Revenue (MRR)](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/monthly-recurring-revenue-expansion-rate) - klipfolio.com
+* [Customer Churn Rate](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/customer-churn-rate) - klipfolio.com
+
 
 -----
 ## Articles
