@@ -1,6 +1,6 @@
 # Awesome KPIs
 
-{Work in Process... Stay Tuned}
+{Awesome Works in Progress}
 
 ## KPIs
 
@@ -11,7 +11,7 @@
 * [Net Promoter Score (NPS)](https://www.twilio.com/docs/glossary/what-is-net-promoter-score)
 
 
-### HR
+### Human Resources KPIs
 * [5 KPIs That Every HR Manager Should Use](https://www.datapine.com/kpi-examples-and-templates/human-resources) - datapine.com
 * [48 HR KPIs & Metric Examples (And How To Implement Them)](https://www.clearpointstrategy.com/human-capital-kpis-scorecard-measures/) - clearpointstrategy.com
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
@@ -25,6 +25,15 @@
 * [Monthly Recurring Revenue (MRR)](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/monthly-recurring-revenue-expansion-rate) - klipfolio.com
 * [Customer Churn Rate](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/customer-churn-rate) - klipfolio.com
 
+### Marketing KPIs
+### Financial KPIs
+### Healthcare KPIs
+### Manufacturing KPIs
+### Customer Service KPIs
+### Retail & eCommerce KPIs
+### IT KPIs
+### Sales KPIs
+### Product KPIs
 
 -----
 ## Articles
