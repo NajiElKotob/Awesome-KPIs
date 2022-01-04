@@ -22,6 +22,17 @@
 
 
 ### Financial KPIs
+* Earnings before interest and taxes (EBIT)
+* Economic value added (EVA)
+* Berry ratio
+* Contribution margin
+* Liquidity ratio
+* Interest cover
+* Days in accounts receivables
+* Net cash flow
+* Gross profit margin
+* Transactions error rate
+
 ### Healthcare KPIs
 ### Hospitality KPIs
 * [RevPAR](https://asksuite.com/blog/what-is-revpar-how-to-improve-it/) - What is RevPar and how to increase it without jeopardizing profits
