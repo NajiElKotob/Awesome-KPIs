@@ -92,3 +92,4 @@
 
 ## Books
 * [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - How Google, Bono, and the Gates Foundation Rock the World with OKRs (April 2018)
+* [A Manager's Guide to Finance & Accounting](https://info.online.hbs.edu/finance-accounting-ebook)
