@@ -22,16 +22,47 @@
 
 
 ### Financial KPIs
-* Earnings before interest and taxes (EBIT)
-* Economic value added (EVA)
+* Accounts Payable Turnover
+* Accounts Receivable Turnover
+* Average Invoice Processing Cost
 * Berry ratio
+* Budget Creation Cycle Time
+* Budget Variance
+* Cash Conversion Cycle
 * Contribution margin
-* Liquidity ratio
-* Interest cover
+* Current Accounts Payable
+* Current Accounts Receivable
+* Current Ratio
 * Days in accounts receivables
-* Net cash flow
+* Days Inventory Outstanding (DIO)
+* Days Payable Outstanding
+* Days Sales Outstanding (DSO)
+* Debt-to-Equity Ratio
+* Earnings before interest and taxes (EBIT)
+* Earnings Per Share (EPS)
+* Economic value added (EVA)
+* Fixed Asset Turnover
+* Gross Burn Rate
 * Gross profit margin
+* Interest cover
+* Interest Coverage
+* Inventory Turnover
+* Line Items in Budget
+* Liquidity ratio
+* Net cash flow
+* Net Profit Margin
+* Number of Budget Iterations
+* Operating Cash Flow Ratio (OCF)
+* Payroll Headcount Ratio
+* Quick Ratio/Acid Test
+* Return on Assets (ROA)
+* Return on Sales (ROS)/Operating Margin
+* Sales Growth
+* Selling, General and Administrative Ratio (SGA)
 * Transactions error rate
+* Working Capital
+
+
 
 ### Healthcare KPIs
 ### Hospitality KPIs
