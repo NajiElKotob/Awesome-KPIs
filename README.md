@@ -4,22 +4,43 @@
 
 ## KPIs
 #### What is a KPI Dashboard?
+
 `
 A KPI dashboard displays key performance indicators in integrated and interactive charts and graphs, allowing for quick and deep insights.
 `
 -----
-1. Human Resources KPIs
-1. Customer Service KPIs
-1. Financial KPIs
-1. Healthcare KPIs
-1. Hospitality KPIs
-1. IT KPIs
-1. Manufacturing KPIs
-1. Marketing KPIs
-1. Retail & eCommerce KPIs
-1. Product KPIs
-1. Sales KPIs
-1. SaaS KPIs
+### KPIs by Function
+1. Human Resources Metrics & KPIs
+1. Customer Service Metrics & KPIs
+1. Financial Metrics & KPIs
+1. IT Metrics & KPIs
+1. Manufacturing Metrics & KPIs
+1. Marketing Metrics & KPIs
+1. Retail Metrics & KPIs
+1. Supply Chain Metrics & KPIs
+1. Product Metrics & KPIs
+1. SEO Metrics & KPIs
+1. Support Metrics & KPIs 
+1. Sales Metrics & KPIs
+
+
+### KPIs by Industry
+1. SaaS Metrics & KPIs
+1. Healthcare Metrics & KPIs
+1. Hospitality Metrics & KPIs
+1. Insurance Metrics & KPIs
+1. Call Center Metrics & KPIs
+1. e-Commerce Metrics & KPIs
+1. Help Desk Metrics & KPIs 
+
+
+### KPIs by Platform
+1. Facebook Metrics & KPIs  
+1. LinkedIn Metrics & KPIs 
+1. Twitter Metrics & KPIs 
+1. YouTube Metrics & KPIs 
+1. Google Analytics Metrics & KPIs
+
 -----
 
 ### Human Resources KPIs
