@@ -92,7 +92,7 @@
 
 ## Vidoes
 * [What is a KPI? ~4min](https://www.youtube.com/watch?v=8asfI8RQ5_8) - Bernard Marr
-
+* [How to Develop Key Performance Indicators ~6min](https://www.youtube.com/watch?v=2tuWjtc2Ifk) - Virtual Strategist
 
 -----
 
