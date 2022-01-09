@@ -3,7 +3,24 @@
 {Awesome Works in Progress}
 
 ## KPIs
-
+#### What is a KPI Dashboard?
+`
+A KPI dashboard displays key performance indicators in interactive charts and graphs, allowing for quick, organized review and analysis. Key performance indicators are quantifiable measures of performance over time for specific strategic objectives. Modern KPI dashboards allow any user to easily explore the data behind the KPIs and uncover actionable insights. In this way, a KPI dashboard transforms massive data sets from across an organization into data-driven decisions that can improve your business.
+`
+-----
+1. Human Resources KPIs
+1. Customer Service KPIs
+1. Financial KPIs
+1. Healthcare KPIs
+1. Hospitality KPIs
+1. IT KPIs
+1. Manufacturing KPIs
+1. Marketing KPIs
+1. Retail & eCommerce KPIs
+1. Product KPIs
+1. Sales KPIs
+1. SaaS KPIs
+-----
 
 ### Human Resources KPIs
 * [5 KPIs That Every HR Manager Should Use](https://www.datapine.com/kpi-examples-and-templates/human-resources) - datapine.com
