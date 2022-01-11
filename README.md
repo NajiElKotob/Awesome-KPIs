@@ -121,10 +121,9 @@ A KPI dashboard displays key performance indicators in integrated and interactiv
 
 -----
 ## Articles
-### General Information
+* [The Balanced Scorecard—Measures that Drive Performance](https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2) - hbr.org
 * [What Is A Leading And A Lagging Indicator?](https://www.bernardmarr.com/default.asp?contentID=1405) - Bernard Marr
-### Operational Processes and Supply chain Perspective
-* [Six Sigma Tools: DPU, DPMO, PPM and RTY](https://www.sixsigmadaily.com/dpu-dpmo-ppm-and-rty/)
+* [Six Sigma Tools: DPU, DPMO, PPM and RTY](https://www.sixsigmadaily.com/dpu-dpmo-ppm-and-rty/) - sixsigmadaily.com
 
 -----
 
