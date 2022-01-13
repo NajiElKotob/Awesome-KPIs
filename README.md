@@ -119,19 +119,18 @@
 
 
 -----
-## Articles
+## References
+### Articles
 * [The Balanced Scorecard—Measures that Drive Performance](https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2) - hbr.org
 * [What Is A Leading And A Lagging Indicator?](https://www.bernardmarr.com/default.asp?contentID=1405) - Bernard Marr
 * [Six Sigma Tools: DPU, DPMO, PPM and RTY](https://www.sixsigmadaily.com/dpu-dpmo-ppm-and-rty/) - sixsigmadaily.com
 
------
 
-## Vidoes
+### Vidoes
 * [What is a KPI? ~4min](https://www.youtube.com/watch?v=8asfI8RQ5_8) - Bernard Marr
 * [How to Develop Key Performance Indicators ~6min](https://www.youtube.com/watch?v=2tuWjtc2Ifk) - Virtual Strategist
 
------
 
-## Books
+### Books
 * [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - How Google, Bono, and the Gates Foundation Rock the World with OKRs (April 2018)
 * [A Manager's Guide to Finance & Accounting](https://info.online.hbs.edu/finance-accounting-ebook)
