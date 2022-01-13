@@ -102,10 +102,12 @@
 
 
 ### Healthcare KPIs
+* Average Length of Stay
+* Lab Turnaround Time
 #### ER Status
 * ER Waiting Times - Measures the amount of time patients are currently waiting before being seen by a physician in your ER.
 * Number of Patients in ER 
-* Current ER Occupancy 
+* Current ER Occupancy - Measures how many are currently occupied in your ER compared to the total number of beds.
 
 ### Hospitality KPIs
 * [RevPAR](https://asksuite.com/blog/what-is-revpar-how-to-improve-it/) - What is RevPar and how to increase it without jeopardizing profits
