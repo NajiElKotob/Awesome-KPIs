@@ -162,6 +162,18 @@
 * Cost per Thousand Impressions
 * Followers demographics
 
+#### Twitter KPIs
+* Average Amount of Link Clicks
+* Average Engagement Rate
+* Average Amount of Impressions
+* Top 5 Tweets by Engagement
+* CPM of Twitter Ads
+* Results Rate of Twitter Ads
+* Cost per Result of Twitter Ads
+* Interests of followers
+* Number of Followers
+* Hashtag Performance
+
 #### LinkedIn KPIs
 * Followers
 * Number of Followers
