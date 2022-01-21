@@ -141,6 +141,26 @@
 * View-Through-Conversions
 * Average Time on Page
 
+#### Facebook
+* Number of Fans
+* Follower Demographics
+* Page Views by Sources
+* Actions on Page
+* Reach by Post Type
+* Post Engagement Rate
+* Click-Through-Rate (CTR)
+* Ad Impressions & Frequency
+* CPM & CTR of Facebook Ads
+* Cost per Conversion
+* Impressions (Organic, Paid)
+* Reach
+* Video engagement
+* Video retention
+* Engagement rate
+* Followers growth
+* Cost per Conversion
+* Cost per Thousand Impressions
+* Followers demographics
 
 -----
 ## References
