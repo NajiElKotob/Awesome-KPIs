@@ -126,19 +126,20 @@
 * [Customer Churn Rate](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/customer-churn-rate) - klipfolio.com
 
 ### Social Media KPIs
-##### Reach KPIs
-* Impressions - The number of times your post was visible in someone’s feed or timeline.
-* Growth
-* Follower count
-##### Social media engagement KPIs
-* Average engagement rate
-##### Conversion KPIs
-* Conversion rate
-* Click-through rate (CTR)
-* Cost per click (CPC)
-* Cost per thousand impressions (CPM)
-* Bounce rate
-* ROI
+#### Google KPIs
+* Number of Active Campaign
+* Number of Clicks
+* Click-Through-Rate (CTR)
+* Quality Score
+* Cost-per-Click (CPC)
+* Ad Position
+* Conversion Rate
+* Cost per Conversion
+* Budget Attainment
+* Cost per Mille (CPM)
+* Impression Share
+* View-Through-Conversions
+* Average Time on Page
 
 
 -----
