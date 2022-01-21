@@ -141,7 +141,7 @@
 * View-Through-Conversions
 * Average Time on Page
 
-#### Facebook
+#### Facebook KPIs
 * Number of Fans
 * Follower Demographics
 * Page Views by Sources
@@ -161,6 +161,32 @@
 * Cost per Conversion
 * Cost per Thousand Impressions
 * Followers demographics
+
+#### LinkedIn KPIs
+* Followers
+* Number of Followers
+* Impressions & Reach
+* Engagement Rate
+* Company Update Stats
+* Viewer Information
+* Contact & Network Growth
+* Profile Views by Job Title
+* Post Views & Engagements
+* Reactions
+* Clicks
+* Comments
+* Shares
+* Brand mentions
+* Activity of LinkedIn Page
+* Visitors
+* Demographic data
+* Messages
+* Click-through Rate
+* Referral traffic
+* New connections
+* Relevant conversations
+* Social selling index
+* Unique visitors
 
 -----
 ## References
