@@ -42,13 +42,6 @@
 
 -----
 
-### Human Resources KPIs
-* [5 KPIs That Every HR Manager Should Use](https://www.datapine.com/kpi-examples-and-templates/human-resources) - datapine.com
-* [48 HR KPIs & Metric Examples (And How To Implement Them)](https://www.clearpointstrategy.com/human-capital-kpis-scorecard-measures/) - clearpointstrategy.com
-* [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
-##### HR Dashboards
-* [Agile HR Analytics V3.0 📺](https://www.youtube.com/watch?v=xPkFEgWexVw&t)
-
 
 ### Customer Service KPIs
 ##### Rating
@@ -100,7 +93,6 @@
 * Working Capital
 
 
-
 ### Healthcare KPIs
 * Average Length of Stay
 * Lab Turnaround Time
@@ -111,6 +103,16 @@
 
 ### Hospitality KPIs
 * [RevPAR](https://asksuite.com/blog/what-is-revpar-how-to-improve-it/) - What is RevPar and how to increase it without jeopardizing profits
+
+
+### Human Resources KPIs
+* [5 KPIs That Every HR Manager Should Use](https://www.datapine.com/kpi-examples-and-templates/human-resources) - datapine.com
+* [48 HR KPIs & Metric Examples (And How To Implement Them)](https://www.clearpointstrategy.com/human-capital-kpis-scorecard-measures/) - clearpointstrategy.com
+* [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
+##### HR Dashboards
+* [Agile HR Analytics V3.0 📺](https://www.youtube.com/watch?v=xPkFEgWexVw&t)
+
+
 ### IT KPIs
 ### Manufacturing KPIs
 ### Marketing KPIs
@@ -123,6 +125,20 @@
 * [Monthly Recurring Revenue (MRR)](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/monthly-recurring-revenue-expansion-rate) - klipfolio.com
 * [Customer Churn Rate](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/customer-churn-rate) - klipfolio.com
 
+### Social Media KPIs
+##### Reach KPIs
+* Impressions - The number of times your post was visible in someone’s feed or timeline.
+* Growth
+* Follower count
+##### Social media engagement KPIs
+* Average engagement rate
+##### Conversion KPIs
+* Conversion rate
+* Click-through rate (CTR)
+* Cost per click (CPC)
+* Cost per thousand impressions (CPM)
+* Bounce rate
+* ROI
 
 
 -----
