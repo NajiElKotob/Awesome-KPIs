@@ -42,7 +42,6 @@
 
 
 ### Customer Service KPIs
-##### Rating
 * Absolute Category Rating (ACR)
 * Average Handle Time (AHT)
 * Customer Effort Score (CES)
