@@ -43,10 +43,10 @@
 
 ### Customer Service KPIs
 ##### Rating
-* [Absolute Category Rating (ACR)](https://en.wikipedia.org/wiki/Absolute_Category_Rating)
-* [Mean Opinion Score (MOS)](https://www.twilio.com/docs/glossary/what-is-mean-opinion-score-mos)
-* [Customer Satisfaction Rating (CSAT)](https://blog.hubspot.com/service/customer-satisfaction-score)
-* [Net Promoter Score (NPS)](https://www.twilio.com/docs/glossary/what-is-net-promoter-score)
+* Absolute Category Rating (ACR)
+* Mean Opinion Score (MOS)
+* Customer Satisfaction Rating (CSAT)
+* Net Promoter Score (NPS)
 
 
 ### Financial KPIs
