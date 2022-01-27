@@ -31,14 +31,13 @@
 1. Call Center Metrics & KPIs
 1. e-Commerce Metrics & KPIs
 1. Help Desk Metrics & KPIs 
-
-
-### KPIs by Platform
+#### Social Media
 1. Facebook Metrics & KPIs  
 1. LinkedIn Metrics & KPIs 
 1. Twitter Metrics & KPIs 
 1. YouTube Metrics & KPIs 
 1. Google Analytics Metrics & KPIs
+1. Hashtag Metrics & KPIs
 
 -----
 
