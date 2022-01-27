@@ -9,19 +9,18 @@
 
 -----
 ### KPIs by Function
-1. Human Resources Metrics & KPIs
 1. Customer Service Metrics & KPIs
 1. Financial Metrics & KPIs
+1. Human Resources Metrics & KPIs
 1. IT Metrics & KPIs
 1. Manufacturing Metrics & KPIs
 1. Marketing Metrics & KPIs
-1. Retail Metrics & KPIs
-1. Supply Chain Metrics & KPIs
 1. Product Metrics & KPIs
-1. SEO Metrics & KPIs
-1. Support Metrics & KPIs 
+1. Retail Metrics & KPIs
 1. Sales Metrics & KPIs
-
+1. SEO Metrics & KPIs
+1. Supply Chain Metrics & KPIs
+1. Support Metrics & KPIs
 
 ### KPIs by Industry
 1. SaaS Metrics & KPIs
