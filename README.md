@@ -5,7 +5,7 @@
 ## KPIs
 #### What is a KPI Dashboard?
 
-`A KPI dashboard displays key performance indicators in integrated and interactive charts and graphs, allowing for quick and deep insights.`
+`A KPI dashboard displays key performance indicators in integrated and interactive charts and graphs, allowing for quick and deep insights. Simply, the Key Performance Indicators (KPIs) are a special set of metrics that help determine whether business is going in the right or wrong direction. `
 
 -----
 ### KPIs by Function
