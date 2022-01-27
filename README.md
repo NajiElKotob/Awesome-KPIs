@@ -206,7 +206,7 @@
 * [The Balanced Scorecard—Measures that Drive Performance](https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2) - hbr.org
 * [What Is A Leading And A Lagging Indicator?](https://www.bernardmarr.com/default.asp?contentID=1405) - Bernard Marr
 * [Six Sigma Tools: DPU, DPMO, PPM and RTY](https://www.sixsigmadaily.com/dpu-dpmo-ppm-and-rty/) - sixsigmadaily.com
-
+* [3 Popular Goal-Setting Techniques Managers Should Avoid](https://hbr.org/2017/01/3-popular-goal-setting-techniques-managers-should-avoid) - hbr.org
 
 ### Vidoes
 * [What is a KPI? ~4min](https://www.youtube.com/watch?v=8asfI8RQ5_8) - Bernard Marr
