@@ -44,9 +44,19 @@
 ### Customer Service KPIs
 ##### Rating
 * Absolute Category Rating (ACR)
-* Mean Opinion Score (MOS)
+* Average Handle Time (AHT)
+* Customer Effort Score (CES)
+* Customer Retention
 * Customer Satisfaction Rating (CSAT)
+* Employee Satisfaction Score (ESAT)
+* Employee Turnover Rate (ETR)
+* First Response Time (FRT)
+* Mean Opinion Score (MOS)
 * Net Promoter Score (NPS)
+* Top Performing Agents
+* Total Tickets and Tickets Per Customer
+* Volume by Channel e.g., Email, Phone, Chat, Social, etc.
+
 
 
 ### Financial KPIs
