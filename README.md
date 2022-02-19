@@ -220,6 +220,7 @@
 ### Notes
 * How many KPIs should an organization have? 10 to 2
 * You get what you measure
+* No organization can look at everything, so it must focus on the most important issues. The "key" in key performance indicators represents those issues that most affect the organization's ability to conduct business.
 
 ### Vidoes
 * [What is a KPI? ~4min](https://www.youtube.com/watch?v=8asfI8RQ5_8) - Bernard Marr
