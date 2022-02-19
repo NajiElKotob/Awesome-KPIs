@@ -215,10 +215,12 @@
 * [Six Sigma Tools: DPU, DPMO, PPM and RTY](https://www.sixsigmadaily.com/dpu-dpmo-ppm-and-rty/) - sixsigmadaily.com
 * [3 Popular Goal-Setting Techniques Managers Should Avoid](https://hbr.org/2017/01/3-popular-goal-setting-techniques-managers-should-avoid) - hbr.org
 
+### Notes
+* How many KPIs should an organization have? 10 to 2
+
 ### Vidoes
 * [What is a KPI? ~4min](https://www.youtube.com/watch?v=8asfI8RQ5_8) - Bernard Marr
 * [How to Develop Key Performance Indicators ~6min](https://www.youtube.com/watch?v=2tuWjtc2Ifk) - Virtual Strategist
-
 
 ### Books
 * [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - How Google, Bono, and the Gates Foundation Rock the World with OKRs (April 2018)
