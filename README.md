@@ -217,6 +217,7 @@
 
 ### Notes
 * How many KPIs should an organization have? 10 to 2
+* You get what you measure
 
 ### Vidoes
 * [What is a KPI? ~4min](https://www.youtube.com/watch?v=8asfI8RQ5_8) - Bernard Marr
