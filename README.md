@@ -96,6 +96,7 @@
 * Return on Assets (ROA)
 * Return on Sales (ROS)/Operating Margin
 * Sales Growth
+* Sales per Square foot | How much revenue a retail business generates for its sales space.
 * Selling, General and Administrative Ratio (SGA)
 * Transactions error rate
 * Working Capital
