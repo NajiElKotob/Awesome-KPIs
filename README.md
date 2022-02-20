@@ -216,12 +216,6 @@
 * [3 Popular Goal-Setting Techniques Managers Should Avoid](https://hbr.org/2017/01/3-popular-goal-setting-techniques-managers-should-avoid) - hbr.org
 * [Can an Organization Have Too Many KPI?](https://gsb.nu.edu.kz/en/news/can-an-organization-have-too-many-pki) - nu.edu.kz
 
-
-### Notes
-* How many KPIs should an organization have? 10 to 2
-* You get what you measure
-* No organization can look at everything, so it must focus on the most important issues. The "key" in key performance indicators represents those issues that most affect the organization's ability to conduct business.
-
 ### Vidoes
 * [What is a KPI? ~4min](https://www.youtube.com/watch?v=8asfI8RQ5_8) - Bernard Marr
 * [How to Develop Key Performance Indicators ~6min](https://www.youtube.com/watch?v=2tuWjtc2Ifk) - Virtual Strategist
@@ -229,3 +223,11 @@
 ### Books
 * [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - How Google, Bono, and the Gates Foundation Rock the World with OKRs (April 2018)
 * [A Manager's Guide to Finance & Accounting](https://info.online.hbs.edu/finance-accounting-ebook)
+
+-----
+
+## Notes
+* How many KPIs should an organization have? 10 to 2
+* You get what you measure
+* No organization can look at everything, so it must focus on the most important issues. The "key" in key performance indicators represents those issues that most affect the organization's ability to conduct business.
+* The four perspectives of a "traditional" balanced scorecard are Financial, Customer, Internal Process, and Learning and Growth. It's about how a company organizes its KPIs.
