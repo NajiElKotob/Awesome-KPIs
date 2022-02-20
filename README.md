@@ -59,6 +59,7 @@
 
 
 ### Financial KPIs
+* Average Collection Period
 * Accounts Payable Turnover
 * Accounts Receivable Turnover
 * Average Invoice Processing Cost
