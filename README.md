@@ -95,6 +95,7 @@
 * Quick Ratio/Acid Test
 * Return on Assets (ROA)
 * Return on Equity (ROE)
+* Return on Investment (ROI)
 * Return on Sales (ROS)/Operating Margin
 * Sales Growth
 * Sales per Square foot | How much revenue a retail business generates for its sales space.
