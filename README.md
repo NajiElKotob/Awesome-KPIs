@@ -214,7 +214,8 @@
 -----
 ## References
 ### Articles
-* [What is a KPI?](https://bernardmarr.com/what-is-a-kpi/)
+* [What is a KPI?](https://bernardmarr.com/what-is-a-kpi/) - bernardmarr.com
+* [What is an OKR?](https://www.whatmatters.com/series_entries/s1-2-how-do-okrs-work) - whatmatters.com
 * [The Balanced Scorecard—Measures that Drive Performance](https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2) - hbr.org
 * [What Is A Leading And A Lagging Indicator?](https://www.bernardmarr.com/default.asp?contentID=1405) - Bernard Marr
 * [Six Sigma Tools: DPU, DPMO, PPM and RTY](https://www.sixsigmadaily.com/dpu-dpmo-ppm-and-rty/) - sixsigmadaily.com
