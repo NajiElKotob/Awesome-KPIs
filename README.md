@@ -236,3 +236,8 @@
 * You get what you measure
 * No organization can look at everything, so it must focus on the most important issues. The "key" in key performance indicators represents those issues that most affect the organization's ability to conduct business.
 * The four perspectives of a "traditional" balanced scorecard are Financial, Customer, Internal Process, and Learning and Growth. It's about how a company organizes its KPIs.
+
+-----
+
+## Quotes
+* “If you can’t measure it, you can’t manage it.” ~ Peter Drucker | Austrian-American educator
