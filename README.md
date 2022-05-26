@@ -229,6 +229,7 @@
 * [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - How Google, Bono, and the Gates Foundation Rock the World with OKRs (April 2018)
 * [A Manager's Guide to Finance & Accounting](https://info.online.hbs.edu/finance-accounting-ebook)
 * [How to Develop Meaningful KPIs (Free)](https://www.intrafocus.com/services/developing-meaningful-kpis/) - intrafocus.com
+* [The 75 KPIs Every Manager Should Know About](https://bernardmarr.com/the-75-kpis-every-manager-should-know-about/) - bernardmarr.com
 -----
 
 ## Notes
