@@ -58,7 +58,7 @@
 
 
 
-### Financial KPIs
+### Financial KPIs and Metrics
 * Average Collection Period
 * Accounts Payable Turnover
 * Accounts Receivable Turnover
@@ -102,7 +102,7 @@
 * Selling, General and Administrative Ratio (SGA)
 * Transactions error rate
 * Working Capital
-
+* [VaR](https://www.investopedia.com/terms/v/var.asp) - Value at Risk
 
 ### Healthcare KPIs
 * Average Length of Stay
