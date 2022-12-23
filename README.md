@@ -222,6 +222,7 @@
 * [3 Popular Goal-Setting Techniques Managers Should Avoid](https://hbr.org/2017/01/3-popular-goal-setting-techniques-managers-should-avoid) - hbr.org
 * [Can an Organization Have Too Many KPI?](https://gsb.nu.edu.kz/en/news/can-an-organization-have-too-many-pki) - nu.edu.kz
 * [OKRs vs KPIs (Adobe Communications Team)](https://business.adobe.com/blog/basics/okr-vs-kpi) - business.adobe.com
+* [OKRs Examples & Resources]https://www.whatmatters.com/get-examples() - whatmatters.com
 
 ### Vidoes
 * [What is a KPI? ~4min](https://www.youtube.com/watch?v=8asfI8RQ5_8) - Bernard Marr
