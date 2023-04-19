@@ -229,6 +229,7 @@
 ### Vidoes
 * [What is a KPI? ~4min](https://www.youtube.com/watch?v=8asfI8RQ5_8) - Bernard Marr
 * [How to Develop Key Performance Indicators ~6min](https://www.youtube.com/watch?v=2tuWjtc2Ifk) - Virtual Strategist
+* [Stacey Barr, PuMP and KPIs](https://www.youtube.com/@StaceyBarr)
 
 ### Books
 * [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - How Google, Bono, and the Gates Foundation Rock the World with OKRs (April 2018)
