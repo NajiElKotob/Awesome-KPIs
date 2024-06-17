@@ -117,6 +117,7 @@
 
 
 ### Human Resources KPIs
+* [HR KPIs: All You Need to Know [+ 17 Examples]](https://www.aihr.com/blog/human-resources-key-performance-indicators-hr-kpis/)
 * [5 KPIs That Every HR Manager Should Use](https://www.datapine.com/kpi-examples-and-templates/human-resources) - datapine.com
 * [48 HR KPIs & Metric Examples (And How To Implement Them)](https://www.clearpointstrategy.com/human-capital-kpis-scorecard-measures/) - clearpointstrategy.com
 * [7 HR Data Sets for People Analytics](https://www.aihr.com/blog/hr-data-sets-people-analytics/) - aihr.com
